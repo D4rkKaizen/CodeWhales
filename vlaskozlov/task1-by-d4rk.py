@@ -1,8 +1,6 @@
-lower = 'PRIVET'
-cap = 'kak dela?'
-upper = 'poka'
+str = input('Введи сюда какую-нибудь хуйню\n')
 
-print(lower.lower())
-print(cap.capitalize())
-print(upper.upper())
+print(str.lower())
+print(str.capitalize())
+print(str.upper())
 #done
