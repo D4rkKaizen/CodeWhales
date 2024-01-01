@@ -1,4 +1,8 @@
-str = 'jopa'
+lower = 'PRIVET'
+cap = 'kak dela?'
+upper = 'poka'
 
-print(str.upper())
+print(lower.lower())
+print(cap.capitalize())
+print(upper.upper())
 #done
