@@ -1,2 +1,1 @@
-#ArsArsArsArs
-print("Life is Roblox")
+# ArsArsArsArs
