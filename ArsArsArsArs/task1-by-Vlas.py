@@ -3,7 +3,7 @@ def isnumber(string: str):
 
 
 def nonumber_error(inp: str):
-    print("You have ented not a row of digits, dummy!")
+    print("You have entered not a row of digits, dummy!")
 
 
 def working(inp: str):
