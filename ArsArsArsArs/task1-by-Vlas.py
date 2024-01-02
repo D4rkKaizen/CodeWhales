@@ -13,9 +13,9 @@ def working(inp: str):
     print(inp4)
 
 
-condiditions = {"False": nonumber_error, "True": working}
+conditions = {"False": nonumber_error, "True": working}
 
 inp = input("Enter a row of digits: ")
 result_isnumber = isnumber(inp)
-result_conditions = condiditions[str(result_isnumber)]
+result_conditions = conditions[str(result_isnumber)]
 result_conditions(inp)
